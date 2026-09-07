@@ -133,6 +133,4 @@ Possible extensions include:
 - custom PCB
 - enclosure / 3D printed sensor mount
 
-## License
 
-This project is released under the [MIT License](LICENSE).
